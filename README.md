@@ -50,9 +50,9 @@ Currently working on real-time projects involving Java, Spring Boot, and fronten
 
 <h2>📫 Contact Me</h2>
 <ul>
-  <li>Email: yourname@gmail.com</li>
+  <li>Email: nandiniks203@gmail.com</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/nandini-k-s-4a134531a/"</a></li>
-  <li>GitHub: <a href="https://github.com/Nandini-ks21">github.com/your-username</a></li>
+  <li>GitHub: <a href="https://github.com/Nandini-ks21">github.com/Nandini-ks21</a></li>
 </ul>
 
 <hr/>
