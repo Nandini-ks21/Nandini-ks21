@@ -1,3 +1,102 @@
+<style>
+/* Global Styling */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: #ffffff;
+  color: #24292f;
+  line-height: 1.7;
+  margin: 20px;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #0d1117;
+  margin-bottom: 0.3rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #57606a;
+  margin-top: 0;
+}
+
+/* Section Titles */
+h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #0d1117;
+  border-left: 4px solid #2f81f7;
+  padding-left: 10px;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+/* Horizontal line */
+hr {
+  border: none;
+  border-top: 1px solid #d0d7de;
+  margin: 2rem 0;
+}
+
+/* Paragraphs */
+p {
+  font-size: 0.95rem;
+  max-width: 900px;
+}
+
+/* Lists */
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+/* Highlight project blocks */
+ul li {
+  background: #f6f8fa;
+  padding: 12px 14px;
+  border-radius: 6px;
+}
+
+/* Bold text */
+b {
+  color: #0d1117;
+}
+
+/* Links */
+a {
+  color: #2f81f7;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Contact section list fix */
+h2 + ul li {
+  background: transparent;
+  padding: 4px 0;
+}
+
+/* Footer */
+p[align="center"] {
+  font-size: 0.9rem;
+  color: #57606a;
+  margin-top: 2rem;
+}
+</style>
+
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm a Java Full Stack Developer</h1>
 <h3 align="center">BE Graduate 2026 | Java Full Stack Intern at JSpiders</h3>
 
@@ -29,13 +128,13 @@ Currently working on real-time projects involving Java, Spring Boot, and fronten
 <h2>📂 Projects</h2>
 <ul>
   <li>
-    <b>Mini E‑Commerce System</b><br/>
+    <b>Mini E-Commerce System</b><br/>
     Next.js | Tailwind<br/>
     <a href="https://github.com/Nandini-ks21/FUTURE_FS_02">View Project</a>
-  </li> 
+  </li>
   <br/>
   <li>
-    <b> AI-Dietition</b><br/>
+    <b>AI-Dietition</b><br/>
     Python<br/>
     <a href="https://github.com/Nandini-ks21/AI-Dietition1">View Project</a>
   </li>
@@ -51,7 +150,7 @@ Currently working on real-time projects involving Java, Spring Boot, and fronten
 <h2>📫 Contact Me</h2>
 <ul>
   <li>Email: nandiniks203@gmail.com</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/nandini-k-s-4a134531a/"</a>linkdin.com/Nandini-ks</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/nandini-k-s-4a134531a/">linkedin.com/Nandini-ks</a></li>
   <li>GitHub: <a href="https://github.com/Nandini-ks21">github.com/Nandini-ks21</a></li>
 </ul>
 
@@ -60,3 +159,6 @@ Currently working on real-time projects involving Java, Spring Boot, and fronten
 <p align="center">
 ⭐ Feel free to explore my repositories and connect with me!
 </p>
+
+</body>
+</html>
