@@ -32,7 +32,7 @@ Currently working on real-time projects involving Java, Spring Boot, and fronten
     <b>Mini E‑Commerce System</b><br/>
     Next.js | Tailwind<br/>
     <a href="https://github.com/Nandini-ks21/FUTURE_FS_02">View Project</a>
-  </li>
+  </li> 
   <br/>
   <li>
     <b> AI-Dietition</b><br/>
