@@ -16,7 +16,7 @@ hands-on experience in backend and frontend technologies.
 
 <h2>🛠️ Technical Skills</h2>
 <ul>
-  <li><b>Programming Languages:</b> Java, JavaScript</li>
+  <li><b>Programming Languages:</b> Java, JavaScript , Python , C , C#</li>
   <li><b>Backend:</b> Core Java, Advanced Java, JDBC, Servlets, JSP, Spring, Spring Boot, Hibernate</li>
   <li><b>Frontend:</b> HTML, CSS, JavaScript, React</li>
   <li><b>Database:</b> MySQL , Oracle SQL</li>
