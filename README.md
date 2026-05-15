@@ -33,9 +33,9 @@ Currently working on real-time projects involving Java, Spring Boot, and fronten
 <h2>📂 Projects</h2>
 <ul>
   <li>
-    <b>Mini E-Commerce System</b><br/>
-    Next.js | Tailwind<br/>
-    <a href="https://github.com/Nandini-ks21/FUTURE_FS_02">View Project</a>
+    <b>E-Commerce Backend Application </b><br/>
+   SpringBoot| Rest ApI's | Database<br/>
+    <a href="https://github.com/Nandini-ks21/E-Commerce-Backend-Application-Using-Springboot">View Project</a>
   </li>
   <br/>
   <li>
@@ -47,7 +47,7 @@ Currently working on real-time projects involving Java, Spring Boot, and fronten
 
 <h2>🚀 Currently Learning</h2>
 <ul>
-  <li>Advanced Java , JDBC</li>
+  <li>SpringBoot</li>
   <li>REST APIs & Microservices</li>
   <li>React Advanced Concepts</li>
 </ul>
